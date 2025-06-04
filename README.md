@@ -2,9 +2,9 @@
 
 This project provides a Python script to verify a list of email addresses in bulk using three steps:
 
-1. ✅ Syntax Validation (Regex)
-2. 🔍 DNS MX Record Check
-3. 📬 SMTP Email Verification
+1. Syntax Validation (Regex)
+2. DNS MX Record Check
+3. SMTP Email Verification
 
 ---
 
