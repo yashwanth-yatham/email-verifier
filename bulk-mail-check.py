@@ -85,5 +85,4 @@ def process_emails_from_csv(input_file='emails.csv', output_file='email_verifica
 
     print(f"\n✅ Finished processing. Results saved to '{output_file}'.")
 
-# 🔁 Run the bulk verifier
 process_emails_from_csv('emails.csv')
