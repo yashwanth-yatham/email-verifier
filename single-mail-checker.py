@@ -44,7 +44,7 @@ def verify_email_smtp(email, from_address='yashwanth@aasaan.app'):
     return False, "Unable to verify with any MX server"
 
 # Example usage
-email = "yashwanth@lightbooks.io"
+email = "yashwanth@enigmametaverse.org"
 if is_valid_syntax(email):
     valid, reason = verify_email_smtp(email)
     print(f"Result: {valid}, Reason: {reason}")
