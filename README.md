@@ -18,7 +18,6 @@ This project provides a Python script to verify a list of email addresses in bul
 - Handles common exceptions gracefully
 
 ---
----
 
 ##Limitations
 
